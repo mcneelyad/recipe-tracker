@@ -1,0 +1,6 @@
+backend/db.sqlite3
+backend/RecipeTracker/__pycache__/
+backend/RecipeTracker/__init__.py
+backend/RecipeTracker/settings.py
+
+.env
