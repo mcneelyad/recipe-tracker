@@ -14,6 +14,6 @@ A web application that allows users to save their favorite recipes
   
 ## Tech Stack
 
-- **Client:** React
+- **Client:** React, NextJS, Redux, Styled Components
 
 - **Server:** Python, Django
